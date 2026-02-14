@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/prato/Documents/GitHub/GameDev-Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/prato/Documents/GitHub/GameDev-Project/Content/Blueprints/Scrap.uasset",
+				"C:/Users/prato/Documents/GitHub/GameDev-Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6A/MVANV3YU3IVH6UJUPGJETT.uasset",
+				"C:/Users/prato/Documents/GitHub/GameDev-Project/Content/Maps/BaseMap.umap"
+			]
+		}
+	]
+}

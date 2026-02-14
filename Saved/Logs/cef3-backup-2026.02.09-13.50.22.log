@@ -1,0 +1,22 @@
+[21004:21204:0209/202543.749:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21004:29456:0209/202543.844:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21004:21204:0209/202543.850:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21004:21204:0209/202548.949:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[22480:18800:0209/202603.693:ERROR:frame_impl.cc(537)] frame 6-E411B19EE3E5AD046D41552F961067CE connection timeout
+[21004:21204:0209/202607.812:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[21004:21204:0209/202607.813:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[21004:21204:0209/202607.813:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[21004:21204:0209/202607.813:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[21004:29816:0209/202607.864:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[21004:29816:0209/202817.998:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[21004:21204:0209/202818.654:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[21004:21204:0209/202818.654:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[21004:21204:0209/202818.654:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[21004:21204:0209/202818.654:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[21004:29816:0209/203035.383:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[21004:21204:0209/203036.038:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[21004:21204:0209/203036.038:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[21004:21204:0209/203036.038:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[21004:21204:0209/203036.038:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[9596:16004:0209/203257.429:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[21004:21204:0209/205022.769:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
