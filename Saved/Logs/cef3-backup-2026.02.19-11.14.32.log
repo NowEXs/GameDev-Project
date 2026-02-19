@@ -1,0 +1,65 @@
+[7716:7576:0219/120301.961:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7716:2440:0219/120302.563:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7716:7576:0219/120302.869:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7560:3532:0219/120305.235:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7560:12644:0219/120305.298:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7560:3532:0219/120305.366:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7716:2440:0219/120309.530:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7716:2440:0219/120309.532:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7716:2440:0219/120309.547:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7716:2440:0219/120309.548:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7716:7576:0219/120309.644:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[7716:7024:0219/120311.480:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7560:3532:0219/120311.960:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[7716:3060:0219/120313.042:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7716:3060:0219/120313.043:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[4676:13176:0219/120315.000:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-06F79460410DA5822F5D282A2872CD7A will be ignored
+[10252:7416:0219/120317.335:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-BC0734F7541FD1BC11FA64936509DBEA will be ignored
+[7716:7576:0219/120435.207:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[7560:3532:0219/124547.043:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/
+[7560:3532:0219/124547.371:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[7560:3532:0219/124547.372:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=1
+[7560:3532:0219/124547.373:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
+[7560:3532:0219/124547.707:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 174 ms
+[7560:3532:0219/150403.001:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/152406.442:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/152421.448:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/152426.448:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/163154.307:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/163154.310:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/163229.422:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171055.112:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171059.757:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171104.758:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171109.770:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171114.770:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171119.769:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171124.769:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171129.770:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171134.770:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171139.777:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171144.776:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171149.776:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171154.790:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171159.790:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171205.005:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171210.009:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171215.013:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171220.017:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171225.020:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171230.022:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171235.024:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171240.026:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171245.108:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171305.114:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171310.114:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171315.114:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171320.114:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171325.115:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/171330.117:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/172337.393:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/172649.209:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/173724.265:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/181106.839:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/181111.878:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7560:3532:0219/181432.660:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
