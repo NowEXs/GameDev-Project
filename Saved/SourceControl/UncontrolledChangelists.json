@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/prato/Documents/GitHub/GameDev-Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/prato/Documents/GitHub/GameDev-Project/Content/Blueprints/Scrap.uasset",
+				"C:/Users/prato/Documents/GitHub/GameDev-Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6A/MVANV3YU3IVH6UJUPGJETT.uasset",
+				"C:/Users/prato/Documents/GitHub/GameDev-Project/Content/Maps/BaseMap.umap",
+				"C:/Users/prato/Documents/GitHub/GameDev-Project/Content/UI/Inventory_Puase_Distance/Inventory.uasset",
 				"C:/Users/oat/Documents/GitHub/GameDev-Project/Content/Widgets/mainmenu.uasset",
 				"C:/Users/oat/Documents/GitHub/GameDev-Project/Content/UI/font/Orbitron-VariableFont_wght.uasset",
 				"C:/Users/oat/Documents/GitHub/GameDev-Project/Content/UI/font/Orbitron-VariableFont_wght_Font.uasset",
@@ -39,11 +44,7 @@
 				"C:/Users/oat/Documents/GitHub/GameDev-Project/Content/UI/GameOver/GameOver.uasset",
 				"C:/Users/oat/Documents/GitHub/GameDev-Project/Content/UI/GameOver/reload.uasset",
 				"C:/Users/oat/Documents/GitHub/GameDev-Project/Content/UI/Inventory.uasset",
-				"C:/Users/oat/Documents/GitHub/GameDev-Project/Content/UI/Oxygenbar/WBP_OxygenBar.uasset",
-				"C:/Users/prato/Documents/GitHub/GameDev-Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/prato/Documents/GitHub/GameDev-Project/Content/Blueprints/Scrap.uasset",
-				"C:/Users/prato/Documents/GitHub/GameDev-Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6A/MVANV3YU3IVH6UJUPGJETT.uasset",
-				"C:/Users/prato/Documents/GitHub/GameDev-Project/Content/Maps/BaseMap.umap"
+				"C:/Users/oat/Documents/GitHub/GameDev-Project/Content/UI/Oxygenbar/WBP_OxygenBar.uasset"
 			]
 		}
 	]
