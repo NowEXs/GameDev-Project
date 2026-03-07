@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 2026/03/07-20:10:33.819 89b0 Reusing MANIFEST C:\Users\prato\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
 2026/03/07-20:10:33.820 89b0 Recovering log #3
 2026/03/07-20:10:33.820 89b0 Reusing old log C:\Users\prato\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 
+=======
+2026/03/07-18:04:42.270 3854 Reusing MANIFEST C:\Users\prato\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/03/07-18:04:42.281 3854 Recovering log #3
+2026/03/07-18:04:42.282 3854 Reusing old log C:\Users\prato\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 
+>>>>>>> Stashed changes
