@@ -1,0 +1,40 @@
+<<<<<<< Updated upstream
+[30568:19156:0307/201030.828:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[30568:5724:0307/201030.950:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[30568:19156:0307/201030.965:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[30568:19156:0307/201033.813:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[5536:37792:0307/201034.710:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-512AFF3FA0065B1272D177978925D43B will be ignored
+[30568:31172:0307/201035.199:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[30568:19156:0307/201035.294:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[30568:19156:0307/201035.294:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[30568:19156:0307/201035.294:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[30568:19156:0307/201035.294:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[30568:31172:0307/201035.299:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[2436:13112:0307/201247.572:WARNING:backend_impl.cc(1568)] Messed up entry found.
+[2436:13112:0307/201247.572:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[30568:19156:0307/205146.563:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[16632:22612:0307/180436.123:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16632:21180:0307/180436.377:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16632:22612:0307/180436.491:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16632:22612:0307/180442.261:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[37732:28136:0307/180447.282:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-86412D4AF3D60098C1528DB644F457D3 will be ignored
+[12212:14016:0307/195547.897:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-26FAE6E474073BE577726A2205FFE2C1 will be ignored
+[26776:13488:0307/195629.261:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[26776:12284:0307/195629.421:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[26776:14088:0307/195629.858:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[26776:12284:0307/195629.866:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[11400:31040:0307/195851.599:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame D-3BC06CFF59ED7E0B30ADAE5F5576A852 will be ignored
+[24972:14860:0307/200015.413:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame F-DC6EB6A3B2596A7E27817997D5EBE30A will be ignored
+[16632:22612:0307/200820.541:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> Stashed changes

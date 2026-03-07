@@ -1,18 +1,5 @@
-<<<<<<< Updated upstream
-2026/03/07-20:10:07.007 7e44 Reusing MANIFEST C:\Users\prato\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/07-20:10:07.015 7e44 Recovering log #3
-2026/03/07-20:10:07.015 7e44 Level-0 table #3: started
-2026/03/07-20:10:07.038 7e44 Level-0 table #3: 957 bytes OK
-2026/03/07-20:10:07.038 7e44 Recovering log #12
-2026/03/07-20:10:07.042 7e44 Reusing old log C:\Users\prato\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\Local Storage\leveldb/000012.log 
-2026/03/07-20:10:07.045 7e44 Delete type=0 #3
-2026/03/07-20:10:07.045 7e44 Delete type=2 #11
-2026/03/07-20:10:07.045 7e44 Delete type=2 #13
-=======
-2026/03/06-18:45:57.243 9014 Reusing MANIFEST C:\Users\prato\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/06-18:45:57.251 9014 Recovering log #4
-2026/03/06-18:45:57.256 9014 Reusing old log C:\Users\prato\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
-2026/03/06-18:52:23.951 38d0 Level-0 table #8: started
-2026/03/06-18:52:23.956 38d0 Level-0 table #8: 82400 bytes OK
-2026/03/06-18:52:23.958 38d0 Delete type=0 #4
->>>>>>> Stashed changes
+2026/03/07-20:54:46.803 2014 Reusing MANIFEST C:\Users\prato\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/07-20:54:46.808 2014 Recovering log #12
+2026/03/07-20:54:46.814 2014 Reusing old log C:\Users\prato\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\Local Storage\leveldb/000012.log 
+2026/03/07-20:54:46.815 2014 Delete type=2 #11
+2026/03/07-20:54:46.815 2014 Delete type=2 #13
