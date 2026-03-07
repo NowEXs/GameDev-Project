@@ -1,42 +1,14 @@
-[9600:12588:0307/174514.096:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[14080:2344:0307/174514.096:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[1264:13044:0307/174514.096:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[9600:12588:0307/174514.144:ERROR:main_runner.cc(122)] ContentMainRun failed with exit code 21
-[1264:13044:0307/174514.144:ERROR:main_runner.cc(122)] ContentMainRun failed with exit code 21
-[14080:2344:0307/174514.335:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[14080:15568:0307/174514.507:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[14080:2344:0307/174514.806:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14080:15568:0307/174520.449:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14080:15568:0307/174520.450:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14080:15568:0307/174520.451:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14080:15568:0307/174520.453:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14080:2344:0307/174520.618:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[14080:15576:0307/174521.323:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14080:15576:0307/174521.325:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15672:15180:0307/174521.345:ERROR:backend_impl.cc(989)] Critical error found -8
-[14080:14540:0307/174521.528:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15672:15180:0307/174521.724:WARNING:storage_block-inl.h(138)] Failed data load.
-[15672:15180:0307/174521.724:WARNING:storage_block-inl.h(138)] Failed data load.
-[15672:15180:0307/174521.725:ERROR:entry_impl.cc(955)] Failed to save user data
-[16024:16028:0307/174523.113:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-267DBA8DF7CC8F0D95371F58CC06D4BC will be ignored
-[14080:2344:0307/181901.979:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/181906.980:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/181912.029:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/181917.029:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/182057.709:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/182102.710:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/182107.719:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/182112.719:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/182122.768:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/182127.804:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/182132.995:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/182138.022:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/182143.064:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/182148.094:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/182153.153:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/182158.166:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/182203.181:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/182208.192:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/183026.622:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/184301.244:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14080:2344:0307/184345.084:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[30568:19156:0307/201030.828:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[30568:5724:0307/201030.950:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[30568:19156:0307/201030.965:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[30568:19156:0307/201033.813:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[5536:37792:0307/201034.710:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-512AFF3FA0065B1272D177978925D43B will be ignored
+[30568:31172:0307/201035.199:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[30568:19156:0307/201035.294:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[30568:19156:0307/201035.294:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[30568:19156:0307/201035.294:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[30568:19156:0307/201035.294:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[30568:31172:0307/201035.299:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[2436:13112:0307/201247.572:WARNING:backend_impl.cc(1568)] Messed up entry found.
+[2436:13112:0307/201247.572:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[30568:19156:0307/205146.563:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
