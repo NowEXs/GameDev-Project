@@ -1,0 +1,17 @@
+[6060:2500:0308/213242.662:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6060:15688:0308/213242.776:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[6060:2500:0308/213242.963:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6060:2500:0308/213247.247:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[10736:3976:0308/213250.903:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-692195A29A9379BDCEE1460A605F1A37 will be ignored
+[6060:2500:0308/213358.855:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6060:2500:0308/214326.850:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6060:2500:0308/214331.850:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6060:2500:0308/214814.108:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6060:2500:0308/214909.665:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6060:2500:0308/214914.665:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6060:2500:0308/214919.665:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6060:2500:0308/214929.668:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6060:2500:0308/214949.671:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6060:2500:0308/215004.674:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6060:2500:0308/215009.678:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6060:2500:0308/215435.469:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
