@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+[15576:13612:0308/154633.478:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15576:6652:0308/154633.526:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15576:13612:0308/154633.549:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15576:2280:0308/154635.945:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15576:16216:0308/154635.947:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15576:16216:0308/154635.948:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15576:16216:0308/154635.960:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15576:13612:0308/154636.505:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[15576:11584:0308/154636.844:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15576:11584:0308/154636.845:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15576:11528:0308/154638.901:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\oat\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12044:12128:0308/154639.184:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9061E3CA5F3FEA4653107AE723AD5244 will be ignored
+[15576:13612:0308/161038.985:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[18208:27560:0308/120820.974:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18208:13908:0308/120821.073:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[18208:27560:0308/120821.083:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18208:27560:0308/120824.099:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[30288:15232:0308/120826.202:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C0482846760305CFC6E167C2D2E442DE will be ignored
+[18208:27560:0308/153027.795:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> de4f1e3c35374858ac93b462a54c02e0c4b9e12d
