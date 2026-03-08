@@ -3,3 +3,4 @@
 [18208:27560:0308/120821.083:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
 [18208:27560:0308/120824.099:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
 [30288:15232:0308/120826.202:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C0482846760305CFC6E167C2D2E442DE will be ignored
+[18208:27560:0308/153027.795:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
