@@ -1,3 +1,6 @@
-2026/03/08-11:49:41.995 8730 Reusing MANIFEST C:\Users\prato\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/08-11:49:42.020 8730 Recovering log #12
-2026/03/08-11:49:42.057 8730 Reusing old log C:\Users\prato\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\Local Storage\leveldb/000012.log 
+2026/03/08-12:08:21.219 638c Reusing MANIFEST C:\Users\prato\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/08-12:08:21.226 638c Recovering log #12
+2026/03/08-12:08:21.231 638c Reusing old log C:\Users\prato\Documents\GitHub\GameDev-Project\Saved\webcache_6613\Default\Local Storage\leveldb/000012.log 
+2026/03/08-15:30:27.324 6754 Level-0 table #15: started
+2026/03/08-15:30:27.335 6754 Level-0 table #15: 64836 bytes OK
+2026/03/08-15:30:27.338 6754 Delete type=0 #12
